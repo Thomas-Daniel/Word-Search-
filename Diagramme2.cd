@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PROJET_ALGO.Dictionnaire">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAgECAAIAAgAAAAAAAAACgAAAAgAAAA=</HashCode>
+      <FileName>Dictionnaire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJET_ALGO.Jeu">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQGAAAABQIAAAECAABIQAAFgEAABYACgAEAAsQQAg=</HashCode>
+      <FileName>Jeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJET_ALGO.Joueur">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAgEAAAIIAQQAAAAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Joueur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJET_ALGO.Plateau">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAiBAQAAAAACTAEAAgBAEAAAABAAEQEJAAFAAgAAgA=</HashCode>
+      <FileName>Plateau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetAlgo.Program">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

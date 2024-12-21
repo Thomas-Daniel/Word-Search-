@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetAlgo", "ProjetAlgo.csproj", "{7FBF216E-38E7-47B2-A5B4-4943834B1B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTests", "..\GameTests\GameTests.csproj", "{E44B089B-DF88-4122-A100-2D73D08AEA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBF216E-38E7-47B2-A5B4-4943834B1B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF216E-38E7-47B2-A5B4-4943834B1B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF216E-38E7-47B2-A5B4-4943834B1B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF216E-38E7-47B2-A5B4-4943834B1B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44B089B-DF88-4122-A100-2D73D08AEA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44B089B-DF88-4122-A100-2D73D08AEA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44B089B-DF88-4122-A100-2D73D08AEA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44B089B-DF88-4122-A100-2D73D08AEA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490AFDD0-2B15-4E0F-B9C3-C6FEF302C23B}
+	EndGlobalSection
+EndGlobal
